@@ -1,20 +1,6 @@
 
 <h1 align="center">WAD UP BITCHES!</h1>
-
-<div>
-  <h3>Text</h3>
-  <img src="https://via.placeholder.com/150" alt="Image" width="150">
-</div>
-<div>
-  <h3>Text</h3>
-  <img src="https://via.placeholder.com/150" alt="Image" width="150">
-</div>
-<div style="display: flex; gap: 20px; justify-content: space-evenly; margin-bottom: 20px;">
-  <h3>Text</h3>
-  <img src="https://via.placeholder.com/150" alt="Image" width="150">
-</div>
-
-
+<img align="right" src="https://i.pinimg.com/736x/bb/c0/5d/bbc05d36038de1120852a79cf08d7c65.jpg" z-index="0">
 <p>I want to make something fancy in this README file</p>
 <p>Ok, let's start by getting to know who TF I am</p>
 <p>Born in 2008, living in Iran<br/>
