@@ -1,5 +1,4 @@
-<h1 align="center">WAD UP Farzam</h1>
-- currently going through **the freecodecamp courses**
+<h1 align="center">WAD UP BITCHES!</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
