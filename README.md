@@ -2,30 +2,16 @@
 <h1 align="center">WAD UP BITCHES!</h1>
 
 <div>
-  <div>
-    <h3>Text</h3>
-  </div>
-  <div style="align-items: right">
-    <img src="https://via.placeholder.com/150" alt="Image" width="150">
-  </div>
+  <h3>Text</h3>
+  <img src="https://via.placeholder.com/150" alt="Image" width="150">
 </div>
-
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <div>
-    <h3>Text</h3>
-  </div>
-  <div>
-    <img src="https://via.placeholder.com/150" alt="Image" width="150">
-  </div>
+<div>
+  <h3>Text</h3>
+  <img src="https://via.placeholder.com/150" alt="Image" width="150">
 </div>
-
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <div>
-    <h3>Text</h3>
-  </div>
-  <div>
-    <img src="https://via.placeholder.com/150" alt="Image" width="150">
-  </div>
+<div>
+  <h3>Text</h3>
+  <img src="https://via.placeholder.com/150" alt="Image" width="150">
 </div>
 
 
