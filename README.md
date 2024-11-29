@@ -1,5 +1,5 @@
 <h1 align="center">WAD UP BITCHES!</h1>
-
+<img align=right src="https://i.pinimg.com/originals/64/6d/44/646d44e4cfb4a3e9d57cc2c479a9e27a.gif">
 <p>I want to make something fancy in this README file</p>
 <p>Ok, let's start by getting to know who TF I am</p>
 <p>Born in 2008, living in Iran<br/>
