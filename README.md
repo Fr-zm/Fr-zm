@@ -1,6 +1,12 @@
-<div style="background-image: https://i.pinimg.com/736x/fd/d7/81/fdd781aab0dc06b6d457504eb64c568a.jpg;"><h1 align="center">WAD UP BITCHES!</h1>
+<style>
+  #background{
+    z-index:0
+  }
+</style>
 
-<img align=right src="https://i.pinimg.com/736x/fd/d7/81/fdd781aab0dc06b6d457504eb64c568a.jpg" z-index=0>
+<h1 align="center">WAD UP BITCHES!</h1>
+
+<img id="background" align=right src="https://i.pinimg.com/736x/fd/d7/81/fdd781aab0dc06b6d457504eb64c568a.jpg" z-index=0>
 <p>I want to make something fancy in this README file</p>
 <p>Ok, let's start by getting to know who TF I am</p>
 <p>Born in 2008, living in Iran<br/>
