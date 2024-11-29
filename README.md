@@ -9,7 +9,7 @@
   <h3>Text</h3>
   <img src="https://via.placeholder.com/150" alt="Image" width="150">
 </div>
-<div>
+<div style="display: flex; gap: 20px; justify-content: space-evenly; margin-bottom: 20px;">
   <h3>Text</h3>
   <img src="https://via.placeholder.com/150" alt="Image" width="150">
 </div>
