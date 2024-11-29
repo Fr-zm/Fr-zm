@@ -1,20 +1,35 @@
 
 <h1 align="center">WAD UP BITCHES!</h1>
 
-<table>
-  <tr>
-    <td><h3>Text</h3></td>
-    <td><img src="https://via.placeholder.com/150" alt="Image" width="150"></td>
-  </tr>
-  <tr>
-    <td><h3>Text</h3></td>
-    <td><img src="https://via.placeholder.com/150" alt="Image" width="150"></td>
-  </tr>
-  <tr>
-    <td><h3>Text</h3></td>
-    <td><img src="https://via.placeholder.com/150" alt="Image" width="150"></td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div>
+    <h3>Text</h3>
+    <p>Some description or information here.</p>
+  </div>
+  <div>
+    <img src="https://via.placeholder.com/150" alt="Image" width="150">
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div>
+    <h3>Text</h3>
+    <p>Some description or information here.</p>
+  </div>
+  <div>
+    <img src="https://via.placeholder.com/150" alt="Image" width="150">
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div>
+    <h3>Text</h3>
+    <p>Some description or information here.</p>
+  </div>
+  <div>
+    <img src="https://via.placeholder.com/150" alt="Image" width="150">
+  </div>
+</div>
 
 
 <p>I want to make something fancy in this README file</p>
