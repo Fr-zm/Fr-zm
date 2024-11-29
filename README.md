@@ -1,6 +1,6 @@
 
 <h1 align="center">WAD UP BITCHES!</h1>
-<div padding="20px 20px 20px 20px">
+<div margin="100">
 <img width="10%" height="10%" align="right" src="https://i.pinimg.com/736x/90/68/d3/9068d39a1cc4173c33a69bd11a127fab.jpg">
 <p>🔥I want to make something fancy in this README file💦</p>
 <p>Ok, let's start by getting to know who TF I am</p>
