@@ -8,3 +8,4 @@ I don't know what to write anymore<br/>
 I started coding a year ago but wasted a lot of time</p>
 <a href="https://discord.gg/frzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frzm" height="30" width="40" /></a></div>
 
+
