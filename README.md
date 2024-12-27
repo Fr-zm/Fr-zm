@@ -1,9 +1,8 @@
-<style>
-body {
-  background-image: url('https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/background-template.png');
-  background-size: cover;
-  background-attachment: fixed;
-}
-</style>
+<div style="background-image: url('https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/background-template.png'); background-size: cover;">
 
-<body></body>
+# Your Content Here
+
+This text appears over the background image.
+
+</div>
+
