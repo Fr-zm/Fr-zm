@@ -5,3 +5,5 @@ body {
   background-attachment: fixed;
 }
 </style>
+
+<body></body>
