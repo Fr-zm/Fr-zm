@@ -15,7 +15,7 @@
 <h1 align="center">Currently working on</h1>
 <p align="center">
 <a href="https://github.com/Fr-zm/Extensions/blob/main/Cracked">
-<img src="https://raw.githubusercontent.com/Fr-zm/Extensions/refs/heads/main/Cracked/Unpacked/assets/icon.png">
+<img src="https://raw.githubusercontent.com/Fr-zm/Extensions/refs/heads/main/Cracked/Unpacked/assets/icon.png" width="100px">
 </a></p>
 
 
