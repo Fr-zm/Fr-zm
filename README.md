@@ -3,7 +3,7 @@
 
  <h1 align="center">I'm good with:</h1>
 
- <p>
+ <p align="center">
 <a href="https://www.freecodecamp.org/certification/Frzm/javascript-algorithms-and-data-structures-v8">
 <img src="https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/js.png" alt="javaScript" width="100px"></a>
 
