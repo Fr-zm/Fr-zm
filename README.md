@@ -5,10 +5,10 @@
 
  <p>
 <a href="https://www.freecodecamp.org/certification/Frzm/javascript-algorithms-and-data-structures-v8">
-<img src="https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/js.png" alt="javaScript" with="100px"></a>
+<img src="https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/js.png" alt="javaScript" width="100px"></a>
 
 <a href="https://www.freecodecamp.org/certification/Frzm/scientific-computing-with-python-v7">
-<img src="https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/python.png" alt="python" with="100px"></a>
+<img src="https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/python.png" alt="python" width="100px"></a>
 </p>
 
 
