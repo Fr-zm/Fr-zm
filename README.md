@@ -24,6 +24,6 @@
 <p align="center">
 
 <a href="https://www.freecodecamp.org/Frzm">
-<img src="" alt="freeCodeCamp"><i class="fa-brands fa-free-code-camp"></i></a>
+<img src="" alt="freeCodeCamp"><img src="https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/fcc.png"></a>
 
 </p>
