@@ -1,11 +1,6 @@
 <img src='https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/header.png' align="left">
 
-## 🌟 I'm good at:
-- [Skill/Technology 1]  
-- [Skill/Technology 2]  
-- [Skill/Technology 3]  
-- [Add more skills or expertise areas]
-
+ <h1>I'm good at:</h1>
 ---
 
 ## 🔨 Currently working on:
