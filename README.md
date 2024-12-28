@@ -1,8 +1,23 @@
 <img src='https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/header.png' align="left">
-<h1></h1>
-<h2 align="center">we could have a chat:</h2>
-<p align="center">
-  <a href="https://discord.com/users/frzm" target="_blank">
-    <img src="https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/discord.png" alt="Discord" width="50">
-  </a>
-</p>
+
+## 🌟 I'm good at:
+- [Skill/Technology 1]  
+- [Skill/Technology 2]  
+- [Skill/Technology 3]  
+- [Add more skills or expertise areas]
+
+---
+
+## 🔨 Currently working on:
+- **[Project Name]**: [Brief description of the project, tools/tech used]  
+- Exploring/learning [New Skill or Technology]  
+- Collaborating on [Any specific project, initiative, or topic]
+
+---
+
+### 🚀 Let's connect!
+Feel free to reach out, collaborate, or share ideas!  
+- 🌐 [Your Portfolio/Website](#)  
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+
