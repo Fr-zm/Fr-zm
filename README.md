@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME</h1>
 <img src='https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/header.png' align="left">
 
- <h1 align="center">I'm good with:</h1>
+ <h1 align="center">I'm good with</h1>
 
  <p align="center">
 <a href="https://www.freecodecamp.org/certification/Frzm/javascript-algorithms-and-data-structures-v8">
@@ -12,9 +12,18 @@
 </p>
 
 
-<h1 align="center">Currently working on:</h1>
+<h1 align="center">Currently working on</h1>
 
 
 <h1 align="center">Let's connect</h1>
 
 <p align="center"><a href="https://discord.com/users/frzm"><img src="https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/discord.png" width="100px"></a></p>
+
+<h1 align="center">Other profiles</h1>
+
+<p align="center">
+
+<a href="https://www.freecodecamp.org/Frzm">
+<img src="" alt="freeCodeCamp"><i class="fa-brands fa-free-code-camp"></i></a>
+
+</p>
