@@ -9,6 +9,10 @@
 
 <a href="https://www.freecodecamp.org/certification/Frzm/scientific-computing-with-python-v7">
 <img src="https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/python.png" alt="python" width="100px"></a>
+
+<a href="https://raw.githubusercontent.com/Fr-zm/Fr-zm/9b888337acf4a3416da3bd434347858d050d4f2a/readme/React-icon.svg">
+<img src="https://raw.githubusercontent.com/Fr-zm/Fr-zm/refs/heads/main/readme/python.png" alt="python" width="100px"></a>
+
 </p>
 
 
